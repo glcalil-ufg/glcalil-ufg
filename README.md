@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente trabalho com Desenvolvimento Web
-- 🌱 Estou estudando PHP e React
+- 🌱 Estou estudando React e Node
 - 📫 Contato : glcalil@discente.ufg.br
 
 <div align="center">
@@ -18,6 +18,7 @@
   <img align="center" alt="glcalil-ufg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="glcalil-ufg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="glcalil-ufg-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="glcalil-ufg-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/php-original.svg">
   <!--<img align="center" alt="glcalil-ufg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
   
