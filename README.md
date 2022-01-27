@@ -18,7 +18,7 @@
   <img align="center" alt="glcalil-ufg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="glcalil-ufg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="glcalil-ufg-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <!--<img align="center" alt="glcalil-ufg-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/php-original.svg">-->>
+  <img align="center" alt="glcalil-ufg-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <!--<img align="center" alt="glcalil-ufg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
   
