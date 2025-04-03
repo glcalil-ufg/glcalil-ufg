@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Desenvolvimento Web
 - 🌱 Estou estudando React e Node
-- 📫 Contato : glcalil@discente.ufg.br
+- 📫 Contato : glcalil10@gmail.com
 
 <div align="center">
   <a href="https://github.com/glcalil-ufg">
